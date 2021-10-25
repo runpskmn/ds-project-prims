@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635092763 source:c:\users\runpsk\documents\discrete\discretegraph\main_graph.cpp
+	"graphics.h"
+	"vertex.h"
+	"edge.h"
+	"iostream"
+	"limits.h"
+	"fstream"
+	<vector>
+	"function.h"
+	<sstream>
+	<string>
+	<bits/stdc++.h>
+	"prims_algo.h"
+
+1634244255 c:\users\runpsk\documents\discrete\discretegraph\edge.h
+
+1634322405 c:\users\runpsk\documents\discrete\discretegraph\vertex.h
+	"graphics.h"
+
+1635080889 c:\users\runpsk\documents\discrete\discretegraph\prims_algo.h
+
+1635074901 c:\users\runpsk\documents\discrete\discretegraph\function.h
+
